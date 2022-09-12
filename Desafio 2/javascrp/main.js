@@ -94,7 +94,7 @@ function pedirNombreYApe() {
   }
   let apellidoIngresado = prompt("Ingrese su Apellido").toUpperCase()
   while (apellidoIngresado === "") {
-    apellidoIngresado = prompt("Error, Ingrese su Nombre").toUpperCase()
+    apellidoIngresado = prompt("Error, Ingrese su Apellido").toUpperCase()
   }
   let nombreCompleto = nombreIngresado + ' ' + apellidoIngresado
   return nombreCompleto
