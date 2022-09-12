@@ -1,3 +1,8 @@
+// El tema que tome de eleccion es un e-comerce de venta de muebles fabricado a mano
+//Ya tengo bastante completo el html y el css de la pagina pero no lo aplique para este desafio
+//Voy a empezar a aplicarlo al trabajo para las pre entregas
+
+
 const banquito = 5700
 const candelabro = 13000
 const bandejaHex = 8900
